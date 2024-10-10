@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 0.6924444618120005,
+        "y": 6.689056341075646
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 4.224079103426387,
+        "y": 7.753224395343341
+      },
+      "isLocked": false,
+      "linkedName": "At Wall Side Speaker"
+    },
+    {
+      "anchor": {
+        "x": 8.036373451664282,
+        "y": 5.765218140122891
+      },
+      "prevControl": {
+        "x": 6.737966280432252,
+        "y": 6.407547644321923
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "At Midline 2"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 5.7,
+    "maxAcceleration": 5.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -179.66902677796395,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": null,
+  "previewStartingState": {
+    "rotation": -119.3577535427912,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

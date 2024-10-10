@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 0.7050149931681604,
+        "y": 4.344967191105343
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 1.348193487502357,
+        "y": 3.982448403389705
+      },
+      "isLocked": false,
+      "linkedName": "At Field Side Speaker"
+    },
+    {
+      "anchor": {
+        "x": 2.6453682536994707,
+        "y": 4.081259900411539
+      },
+      "prevControl": {
+        "x": 2.1074371493472337,
+        "y": 4.05787159152666
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "At Ring 3"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 5.7,
+    "maxAcceleration": 5.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 180.0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": null,
+  "previewStartingState": {
+    "rotation": 120.25643716352923,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}
